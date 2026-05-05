@@ -178,7 +178,7 @@ No missing values and  outliers found.
 1. Clone the repository:
  ```bash
  
-    git clone https://github.com/aidevshakil/SentenceContradictionAnalyze.git
+    git clone https://github.com/aidevshakil/SentenceContradictionClassificationProject.git
 
  ```
 2. Navigate to the project directory:
@@ -211,9 +211,9 @@ sentence_Contradiction_Classification.ipynb
 # Contact
 For questions or collaborations, feel free to reach out:
 
-**Name:** Roksana Akter
+**Name:** Shakil Ahamed
 
-**GitHub:** [@Roksana Akter](https://github.com/Roksana18cse04/)
+**GitHub:** [@Shakil Ahamed](https://github.com/aidevshakil/)
 
 
 
